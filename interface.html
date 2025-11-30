@@ -59,13 +59,12 @@
 
 <h1 id="title">Welcome To Portal</h1>
 
-<!-- Welcome Screen -->
+
 <div id="welcomePage">
     <p>YOU MAY CLICK ON THE BUTTON TO START THE TEST</p>
     <button onclick="startTest()">Start Test</button>
 </div>
 
-<!-- Question Page (Initially Hidden) -->
 <div id="questionPage" style="display:none;">
     <div id="questionContainer"></div>
 </div>
@@ -73,7 +72,7 @@
 <script>
 let questions = [];
 let currentIndex = 0;
-let userAnswers = {};  // <-- ADDED ONLY THIS (store answers)
+let userAnswers = {};  
 
 async function startTest() {
     document.getElementById("welcomePage").style.display = "none";
@@ -199,3 +198,4 @@ function submitTest() {
 
 </body>
 </html>
+
