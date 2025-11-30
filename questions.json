@@ -1,0 +1,122 @@
+[
+  {
+    "ques": "What is JavaScript primarily used for?",
+    "option1": "Styling web pages",
+    "option2": "Adding interactivity to web pages",
+    "option3": "Storing data in databases",
+    "option4": "Designing UI mockups",
+    "answer": "Adding interactivity to web pages"
+  },
+  {
+    "ques": "Which company developed JavaScript?",
+    "option1": "Google",
+    "option2": "Microsoft",
+    "option3": "Netscape",
+    "option4": "IBM",
+    "answer": "Netscape"
+  },
+  {
+    "ques": "Which keyword is used to declare a constant in JavaScript?",
+    "option1": "var",
+    "option2": "let",
+    "option3": "const",
+    "option4": "static",
+    "answer": "const"
+  },
+  {
+    "ques": "Which of the following is NOT a JavaScript data type?",
+    "option1": "String",
+    "option2": "Boolean",
+    "option3": "Float",
+    "option4": "Object",
+    "answer": "Float"
+  },
+  {
+    "ques": "What is the correct way to write a comment in JavaScript?",
+    "option1": "// This is a comment",
+    "option2": "# This is a comment",
+    "option3": "&lt!-- This is a comment --&gt",
+    "option4": "** This is a comment **",
+    "answer": "// This is a comment"
+  },
+  {
+    "ques": "Which method is used to output data to the console?",
+    "option1": "console.write()",
+    "option2": "console.print()",
+    "option3": "console.log()",
+    "option4": "print()",
+    "answer": "console.log()"
+  },
+  {
+    "ques": "Which symbol is used for strict equality comparison?",
+    "option1": "==",
+    "option2": "=",
+    "option3": "===",
+    "option4": "!==",
+    "answer": "==="
+  },
+  {
+  "ques": "Inside which HTML tag do we put JavaScript?",
+  "option1": "&lt;js&gt;",
+  "option2": "&lt;javascript&gt;",
+  "option3": "&lt;script&gt;",
+  "option4": "&lt;code&gt;",
+  "answer": "&lt;script&gt;"
+},
+  {
+    "ques": "Which method converts JSON text to a JavaScript object?",
+    "option1": "JSON.stringify()",
+    "option2": "JSON.parse()",
+    "option3": "JSON.object()",
+    "option4": "JSON.convert()",
+    "answer": "JSON.parse()"
+  },
+  {
+    "ques": "What will `typeof null` return in JavaScript?",
+    "option1": "null",
+    "option2": "object",
+    "option3": "undefined",
+    "option4": "boolean",
+    "answer": "object"
+  },
+  {
+    "ques": "Which of these is a way to declare a function in JavaScript?",
+    "option1": "function myFunc() {}",
+    "option2": "def myFunc() {}",
+    "option3": "func myFunc() {}",
+    "option4": "method myFunc() {}",
+    "answer": "function myFunc() {}"
+  },
+  {
+    "ques": "Which operator is used for addition in JavaScript?",
+    "option1": "+",
+    "option2": "-",
+    "option3": "*",
+    "option4": "/",
+    "answer": "+"
+  },
+  {
+    "ques": "Which keyword is used to define a variable in JavaScript that can change its value?",
+    "option1": "var",
+    "option2": "let",
+    "option3": "const",
+    "option4": "both var and let",
+    "answer": "both var and let"
+  },
+  {
+    "ques": "Which of the following is true about JavaScript arrays?",
+    "option1": "They can hold multiple data types",
+    "option2": "They can hold only numbers",
+    "option3": "They can hold only strings",
+    "option4": "They can hold only objects",
+    "answer": "They can hold multiple data types"
+  },
+  {
+    "ques": "Which of the following is used to create an object in JavaScript?",
+    "option1": "var obj = {}",
+    "option2": "var obj = []",
+    "option3": "var obj = ()",
+    "option4": "var obj = ''",
+    "answer": "var obj = {}"
+  }
+]
